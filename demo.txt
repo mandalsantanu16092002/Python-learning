@@ -1,4 +1,12 @@
 Hi
-i am santanu mandal
-now i am writing a code with python
-python is easy language
+Python Progress Log
+-------------------
+
+✅ Week 1: Learned Python syntax, variables, and loops  
+✅ Week 2: Functions, lists, and dictionaries  
+✅ Week 3: Started with NumPy (array operations)  
+✅ Week 4: Pandas basics and data analysis  
+🔜 Week 5: Data visualization (Matplotlib, Seaborn)
+
+Repository: Python-learning
+Maintained by: Santanu Mandal
